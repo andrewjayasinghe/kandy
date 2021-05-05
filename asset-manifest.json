@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/kandy/static/css/main.0c948971.chunk.css",
+    "main.js": "/kandy/static/js/main.937cff5d.chunk.js",
+    "main.js.map": "/kandy/static/js/main.937cff5d.chunk.js.map",
+    "runtime-main.js": "/kandy/static/js/runtime-main.c487ab60.js",
+    "runtime-main.js.map": "/kandy/static/js/runtime-main.c487ab60.js.map",
+    "static/css/2.797b3e55.chunk.css": "/kandy/static/css/2.797b3e55.chunk.css",
+    "static/js/2.734bcab2.chunk.js": "/kandy/static/js/2.734bcab2.chunk.js",
+    "static/js/2.734bcab2.chunk.js.map": "/kandy/static/js/2.734bcab2.chunk.js.map",
+    "static/js/3.7120af8f.chunk.js": "/kandy/static/js/3.7120af8f.chunk.js",
+    "static/js/3.7120af8f.chunk.js.map": "/kandy/static/js/3.7120af8f.chunk.js.map",
+    "index.html": "/kandy/index.html",
+    "static/css/2.797b3e55.chunk.css.map": "/kandy/static/css/2.797b3e55.chunk.css.map",
+    "static/css/main.0c948971.chunk.css.map": "/kandy/static/css/main.0c948971.chunk.css.map",
+    "static/js/2.734bcab2.chunk.js.LICENSE.txt": "/kandy/static/js/2.734bcab2.chunk.js.LICENSE.txt",
+    "static/media/COVID.95fac945.pdf": "/kandy/static/media/COVID.95fac945.pdf",
+    "static/media/Navbar.css": "/kandy/static/media/NeutraTextDemi.6d62b745.otf",
+    "static/media/index.css": "/kandy/static/media/bun.62127238.jpg",
+    "static/media/unofficial.f65e1078.pdf": "/kandy/static/media/unofficial.f65e1078.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c487ab60.js",
+    "static/css/2.797b3e55.chunk.css",
+    "static/js/2.734bcab2.chunk.js",
+    "static/css/main.0c948971.chunk.css",
+    "static/js/main.937cff5d.chunk.js"
+  ]
+}
