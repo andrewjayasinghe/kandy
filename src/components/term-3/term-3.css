@@ -252,10 +252,9 @@
 
 #a2{
     text-decoration: none;
-    color: #e93a74;
+    color: #c3e93a;
     animation: gradient 40s ease infinite;
     animation-timing-function: ease-in;
-    font-family: CamperSans2;
     font-size: 30px;
     font-weight: 600;
     
