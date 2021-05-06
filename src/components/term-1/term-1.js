@@ -36,50 +36,6 @@ class Term_1 extends Component {
                     </ReactBootStrap.Row>
 
 
-
-                    <ReactBootStrap.Row className="size" style={{ marginTop: "20px" }}>
-                    <ScrollAnimation animateIn='animate__backInLeft'
-                            animateOut='animate__backOutRight' duration="2" offset={5}>
-
-                        <div id="al">
-                                <p id="anum" ><a href="https://www.bcit.ca/outlines/20193034322/" target="blank" id="anum1" >ACIT 1620</a></p>
-                                <p id="well" className="title">Fundamental Web Technologies</p>
-                                <div id="term21">
-                                <p id="desc">This course introduced me to the fundamental principles and
-                                techniques for designing and developing effective Web sites.
-                                Topics included:
-                            <ul style={{ textAlign: 'left', marginLeft: '-5px', marginTop: '10px' }}>
-                            <ScrollAnimation animateIn='zoomInDown'
-                            animateOut='flipOutX' duration="2"  offset={50}>
-                                    <li id="item"> Hand-coding pages with HTML</li> </ScrollAnimation>
-                                    <ScrollAnimation animateIn='zoomInDown'
-                            animateOut='flipOutX' duration="2" delay={1000}  offset={50}>
-                                        <li  id="item"> Styling text and
-                            content with CSS </li></ScrollAnimation>
-
-                            <ScrollAnimation animateIn='zoomInDown'
-                            animateOut='flipOutX' duration="3" delay={1000}  offset={50}>
-                                        <li  id="item"> Adding dynamic features with client-side scripting techniques</li>
-                                        </ScrollAnimation>
-
-                            <ScrollAnimation animateIn='zoomInDown'
-                            animateOut='flipOutX' duration="4" delay={1000} offset={50}>
-                                        <li  id="item"> Server-side scripting and managing files and Web sites using File Transfer Protocol
-                             software such as wordpress </li></ScrollAnimation>
-                             <ScrollAnimation animateIn='zoomInDown'
-                            animateOut='flipOutX' duration="5" delay={1000} offset={5}>
-                                        <li id="item"> I was also introduced to information architecture and interface
-                             design, XML, as well as advanced mark-up techniques using DHTML. </li></ScrollAnimation>
-                                    </ul>
-
-
-                                </p>
-                                </div>
-                        </div>
-                        </ScrollAnimation>
-
-                    </ReactBootStrap.Row>
-
                     <ReactBootStrap.Row className="size" style={{ marginTop: "20px" }}>
                         <ScrollAnimation animateIn='animate__backInRight'
                             animateOut='animate__backOutLeft' duration="2" offset={5}>  
@@ -99,59 +55,6 @@ class Term_1 extends Component {
                         </ScrollAnimation>
                     </ReactBootStrap.Row>
 
-                    <ReactBootStrap.Row className="size" style={{ marginTop: "20px" }}>
-
-<ScrollAnimation animateIn='animate__backInLeft'
-       animateOut='animate__backOutRight' duration="2" offset={5}>   
-   <div id="al1">
-     
-           <p id="anum" ><a href="https://www.bcit.ca/outlines/20193044280/" target="blank" id="anum1" >ACIT 1420</a></p>
-           <p id="well" className="title">Windows System Administration</p>
-           <p id="desc">This course was about the configuration, maintenance, and administration
-           of a Windows computer.
-           Topics I studied included:
-            <ul style={{ textAlign: 'left', marginLeft: '-5px', marginTop: '10px' }} >
-            
-        <ScrollAnimation animateIn='zoomInDown'
-       animateOut='flipOutX' duration="2"  offset={50}>
-               <li id="item"> An introduction to PC hardware, functions of an
-                       Operating System</li> </ScrollAnimation>
-               <ScrollAnimation animateIn='zoomInDown'
-       animateOut='flipOutX' duration="2" delay={1000}  offset={50}>
-                   <li  id="item"> Windows OS architecture, file and disk management
-                    </li></ScrollAnimation>
-
-       <ScrollAnimation animateIn='zoomInDown'
-       animateOut='flipOutX' duration="3" delay={1000}  offset={50}>
-                   <li  id="item"> BIOS, UEFI & Firmware</li>
-                   </ScrollAnimation>
-
-       <ScrollAnimation animateIn='zoomInDown'
-       animateOut='flipOutX' duration="4" delay={1000} offset={50}>
-                   <li  id="item">Multi-boot & virtual machines </li></ScrollAnimation>
-
-        <ScrollAnimation animateIn='zoomInDown'
-       animateOut='flipOutX' duration="5" delay={1000} offset={50}>
-                   <li id="item"> Software installation/removal </li></ScrollAnimation>
-                                         
-                   <ScrollAnimation animateIn='zoomInDown'
-       animateOut='flipOutX' duration="6" delay={1000} offset={50}>
-                   <li id="item"> Performance tuning</li></ScrollAnimation>
-
-                   <ScrollAnimation animateIn='zoomInDown'
-       animateOut='flipOutX' duration="7" delay={1000} offset={5}>
-                   <li id="item">Data Backup & Protection, troubleshooting, networking, security,
-                       virus protection, and firewalls</li></ScrollAnimation>
-               </ul>
-
-
-
-           </p>
-
-       </div>
-
-   </ScrollAnimation>
-</ReactBootStrap.Row>
 
                     <ReactBootStrap.Row className="size" style={{ marginTop: "20px" }}>
                     <ScrollAnimation animateIn='animate__backInRight'

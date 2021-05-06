@@ -83,9 +83,11 @@
 #at31 {
     background: linear-gradient(-65deg, #ff1de1, #acb80e, #375fe4, #fa8a21);
     background-size: 1000% 400%;
-    margin: auto;
+    margin-right:27%;
+    margin-left:22%;
     width:70%;
-    border-radius: 105px;
+    display: block;
+    border-radius: 70px;
     padding-left: 40px;
     padding-right: 40px;
     padding-top:5px ;
@@ -108,7 +110,7 @@
     background-size: 1000% 400%;
     margin: auto;
     width:70%;
-    border-radius: 105px;
+    border-radius: 70px;
     padding-left: 40px;
     padding-right: 40px;
     padding-top:5px ;
@@ -176,7 +178,7 @@
     background-size: 1000% 400%;
     margin: auto;
     width:70%;
-    border-radius: 105px;
+    border-radius: 100px;
     padding-left: 40px;
     padding-right: 40px;
     padding-top:5px ;
@@ -213,11 +215,11 @@
 
 #a2{
     text-decoration: none;
-    color: #e93a74;
+    color: #c3e93a;
     animation: gradient 40s ease infinite;
     animation-timing-function: ease-in;
-    font-family: CamperSans2;
-    font-size: 40px;
+    /* font-family: CamperSans2; */
+    font-size: 20px;
     font-weight: 300;
     }
 

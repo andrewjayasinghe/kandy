@@ -49,7 +49,7 @@ class Navbar extends Component {
         
           </ReactBootStrap.NavDropdown> */}
 
-
+        <ReactBootStrap.Nav.Link  href={process.env.PUBLIC_URL + '/#/'} className="nav-font" id="info">Welcome</ReactBootStrap.Nav.Link >
         <ReactBootStrap.Nav.Link href={process.env.PUBLIC_URL + '/#/Term3'} className="nav-font" id="home">Jar</ReactBootStrap.Nav.Link >
         <ReactBootStrap.Nav.Link  href={'https://www.amazon.ca/wedding/karla-nelson-andrew-jayasinghe-burnaby-august-2021/registry/10Q84LN9EOJN6'} target="_blank" className="nav-font" id="faq">Registry</ReactBootStrap.Nav.Link >
         {/* <ReactBootStrap.Nav.Link  href={process.env.PUBLIC_URL + '/#/Term3'} className="nav-font" id="info">Term-3</ReactBootStrap.Nav.Link > */}
