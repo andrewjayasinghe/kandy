@@ -1,0 +1,340 @@
+
+
+
+
+
+
+
+
+@media only screen and (orientation:landscape){
+
+
+    #tit14 {
+        background: linear-gradient(-65deg, #ff1d1d, #e7961c, #3742e4, #f6fa21);
+        background-size: 1000% 400%;
+        margin: auto;
+        width:55%;
+        border-radius: 105px;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top:5px ;
+        padding-bottom:5px ;
+        position: relative;
+        animation: gradient 40s ease infinite;
+        animation-timing-function: ease-in;   
+        -ms-transform: rotate(-1deg); /* IE 9 */
+        transform: rotate(-1deg);    
+    }
+    
+    #tit14:hover{
+        -ms-transform: rotate(0deg); /* IE 9 */
+        transform: rotate(0deg); 
+        transition: all 0.7s ease-in-out;
+    }
+    
+    
+    
+    #alterm41 {
+        background: linear-gradient(-45deg,#23a6d5, #23d5ab, #e73c7e, #ee7752);
+        background-size: 400% 400%;
+        margin: auto;
+        width:70%;
+        border-radius: 70px;
+        padding-left: 50px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom:10px;
+        position: relative;
+        animation: gradient 15s ease infinite;
+        animation-timing-function: ease-in;   
+        -ms-transform: rotate(1deg); /* IE 9 */
+        transform: rotate(1deg);    
+    }
+    
+    #alterm41:hover{
+        -ms-transform: rotate(0deg); /* IE 9 */
+        transform: rotate(0deg); 
+        transition: all 0.7s ease-in-out;
+    }
+    
+    #alterm42 {
+        background: linear-gradient(-45deg,#23a6d5, #23d5ab, #e73c7e, #ee7752);
+        background-size: 400% 400%;
+        margin: auto;
+        width:70%;
+        border-radius: 65px 65px 65px 65px;
+        padding-left: 50px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom:10px;
+        position: relative;
+        animation: gradient 15s ease infinite;
+        animation-timing-function: ease-in;   
+        -ms-transform: rotate(1deg); /* IE 9 */
+        transform: rotate(-1deg);  
+    }
+    
+    #alterm42:hover{
+        -ms-transform: rotate(0deg); /* IE 9 */
+        transform: rotate(0deg); 
+        transition: all 0.7s ease-in-out;
+    }
+    
+    #alterm43 {
+        background: linear-gradient(-65deg, #ff1de1, #acb80e, #375fe4, #fa8a21);
+        background-size: 1000% 400%;
+        margin: auto;
+        width:70%;
+        border-radius: 105px;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top:5px ;
+        padding-bottom:5px ;
+        position: relative;
+        animation: gradient 40s ease infinite;
+        animation-timing-function: ease-in;   
+        -ms-transform: rotate(1deg); /* IE 9 */
+        transform: rotate(1deg);    
+    }
+    
+    #alterm43:hover{
+        -ms-transform: rotate(0deg); /* IE 9 */
+        transform: rotate(0deg); 
+        transition: all 0.7s ease-in-out;
+    }
+    
+    #alterm44 {
+        background: linear-gradient(-65deg,  #ff1d1d, #c0c23b, #e7961c, #3742e4 );
+        background-size: 1000% 400%;
+        margin: auto;
+        width:70%;
+        border-radius: 105px;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top:5px ;
+        padding-bottom:5px ;
+        position: relative;
+        animation: gradient 40s ease infinite;
+        animation-timing-function: ease-in;   
+        -ms-transform: rotate(-1deg); /* IE 9 */
+        transform: rotate(-1deg);    
+    }
+    
+    #alterm44:hover{
+        -ms-transform: rotate(0deg); /* IE 9 */
+        transform: rotate(0deg); 
+        transition: all 0.7s ease-in-out;
+    }
+    
+    #alterm45 {
+        background: linear-gradient(-65deg,  #8fe71c, #939af8, #2e44a8, #eb7a7a);
+        background-size: 1000% 400%;
+        margin: auto;
+        width:70%;
+        border-radius: 105px;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top:5px ;
+        padding-bottom:5px ;
+        position: relative;
+        animation: gradient 40s ease infinite;
+        animation-timing-function: ease-in;   
+        -ms-transform: rotate(1deg); /* IE 9 */
+        transform: rotate(1deg);    
+    }
+    
+    #alterm45:hover{
+        -ms-transform: rotate(0deg); /* IE 9 */
+        transform: rotate(0deg); 
+        transition: all 0.7s ease-in-out;
+    }
+    #alterm46 {
+        background: linear-gradient(-65deg,  #aa0451, #2203d1, #e46c0a, #c50303);
+        background-size: 1000% 400%;
+        margin: auto;
+        width:70%;
+        border-radius: 105px;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top:5px ;
+        padding-bottom:5px ;
+        position: relative;
+        animation: gradient 40s ease infinite;
+        animation-timing-function: ease-in;   
+        -ms-transform: rotate(-1deg); /* IE 9 */
+        transform: rotate(-1deg);    
+    }
+    
+    #alterm46:hover{
+        -ms-transform: rotate(0deg); /* IE 9 */
+        transform: rotate(0deg); 
+        transition: all 0.7s ease-in-out;
+    }
+    
+    #alterm47 {
+        background: linear-gradient(-65deg,  #e7961c, #3742e4, #f6fa21, #ff1d1d);
+        background-size: 1000% 400%;
+        margin: auto;
+        width:70%;
+        border-radius: 105px;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top:5px ;
+        padding-bottom:5px ;
+        position: relative;
+        animation: gradient 40s ease infinite;
+        animation-timing-function: ease-in;   
+        -ms-transform: rotate(1deg); /* IE 9 */
+        transform: rotate(1deg);    
+    }
+    
+    #alterm47:hover{
+        -ms-transform: rotate(0deg); /* IE 9 */
+        transform: rotate(0deg); 
+        transition: all 0.7s ease-in-out;
+    }
+     
+    }
+    
+    
+    
+    
+    
+    @media only screen and (orientation:portrait){
+    
+      
+    
+    
+    #tit14 {
+        background: linear-gradient(-65deg, #ff1d1d, #e7961c, #3742e4, #f6fa21 );
+        background-size: 800% 400%;
+        margin: auto;
+        width:98%;
+        border-radius: 45px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom:10px;
+        position: relative;
+        animation: gradient 15s ease infinite;
+        animation-timing-function: ease-in;       
+    }
+    #alterm41 {
+        background: linear-gradient(-45deg, #c05a3a, #c92866, #1e80a3, #17b18d);
+        background-size: 400% 400%;
+        margin: auto;
+        width:98%;
+        border-radius: 45px;
+        padding-left: 20px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom:10px;
+        position: relative;
+        animation: gradient 15s ease infinite;
+        animation-timing-function: ease-in;   
+        
+    }
+    #alterm42 {
+        background: linear-gradient(-45deg,#23a6d5, #23d5ab, #e73c7e, #ee7752);
+        background-size: 400% 400%;
+        margin: auto;
+        width:98%;
+        border-radius: 45px;
+        padding-left: 20px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom:10px;
+        position: relative;
+        animation: gradient 15s ease infinite;
+        animation-timing-function: ease-in;   
+       
+    }
+    
+    
+    #alterm43 {
+        background: linear-gradient(-65deg, #ff1de1, #acb80e, #375fe4, #fa8a21);
+        background-size: 1000% 400%;
+        margin: auto;
+        width:98%;
+        border-radius: 45px;
+        padding-left: 20px;
+        padding-right: 2px;
+        padding-top:5px ;
+        padding-bottom:5px ;
+        position: relative;
+        animation: gradient 40s ease infinite;
+        animation-timing-function: ease-in;   
+    }
+    
+    #alterm44 {
+        background: linear-gradient(-65deg,  #ff1d1d, #c0c23b, #e7961c, #3742e4 );
+        background-size: 1000% 400%;
+        margin: auto;
+        width:98%;
+        border-radius: 45px;
+        padding-left: 20px;
+        padding-right: 2px;
+        padding-top:5px ;
+        padding-bottom:5px ;
+        position: relative;
+        animation: gradient 40s ease infinite;
+        animation-timing-function: ease-in;   
+         
+    }
+    
+    
+    #alterm45 {
+        background: linear-gradient(-65deg,  #8fe71c, #939af8, #2e44a8, #eb7a7a);
+        background-size: 1000% 400%;
+        margin: auto;
+        width:98%;
+        border-radius: 45px;
+        padding-left: 20px;
+        padding-right: 2px;
+        padding-top:5px ;
+        padding-bottom:5px ;
+        position: relative;
+        animation: gradient 40s ease infinite;
+        animation-timing-function: ease-in;   
+           
+    }
+    
+    #alterm46 {
+        background: linear-gradient(-65deg,  #aa0451, #2203d1, #e46c0a, #c50303);
+        background-size: 1000% 400%;
+        margin: auto;
+        width:98%;
+        border-radius: 45px;
+        padding-left: 20px;
+        padding-right: 2px;
+        padding-top:5px ;
+        padding-bottom:5px ;
+        position: relative;
+        animation: gradient 40s ease infinite;
+        animation-timing-function: ease-in;   
+          
+    }
+    
+    
+    
+    #alterm47 {
+        background: linear-gradient(-65deg,  #e7961c, #3742e4, #f6fa21, #ff1d1d);
+        background-size: 1000% 400%;
+        margin: auto;
+        width:98%;
+        border-radius: 45px;
+        padding-left: 20px;
+        padding-right: 2px;
+        padding-top:5px ;
+        padding-bottom:5px ;
+        position: relative;
+        animation: gradient 40s ease infinite;
+        animation-timing-function: ease-in;   
+           
+    }
+    
+    
+    
+    
+    
+    }

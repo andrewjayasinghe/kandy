@@ -1,0 +1,700 @@
+
+
+#term2{
+    
+    text-align: left; 
+}
+
+#term21{ 
+    text-align: left;  
+}
+
+#test2{
+    animation: fadein 10s;
+    animation-timing-function: ease-in; 
+    margin-top: 20px;
+    margin-bottom: 20px;  
+}
+
+#test3{
+    animation: fadein 12s;
+    animation-timing-function: ease-in; 
+    margin-top: 20px;
+    margin-bottom: 20px;  
+}
+
+#test4{
+    animation: fadein 14s;
+    animation-timing-function: ease-in; 
+    margin-top: 20px;
+    margin-bottom: 20px;  
+}
+#term24{
+   
+    text-align: left;  
+}
+
+#term25{
+    animation: fadein 18s;
+    animation-timing-function: ease-in; 
+    margin-top: 20px;
+    margin-bottom: 20px;  
+    text-align: left;  
+
+}
+
+#term26{
+ 
+    text-align: left;  
+}
+
+
+
+
+@media only screen and (orientation:landscape){
+
+
+.size{
+    text-align: center;
+    display: block;
+  
+}
+
+#tit1 {
+    background: linear-gradient(-65deg, #32c506, #07ca9d,#405518, #dbd805);
+    background-size: 1000% 400%;
+    margin: auto;
+    width:55%;
+    border-radius: 105px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top:5px ;
+    padding-bottom:5px ;
+    position: relative;
+    animation: gradient 40s ease infinite;
+    animation-timing-function: ease-in;   
+    -ms-transform: rotate(-1deg); /* IE 9 */
+    transform: rotate(-1deg);    
+}
+
+#tit1:hover{
+    -ms-transform: rotate(0deg); /* IE 9 */
+    transform: rotate(0deg); 
+    transition: all 0.7s ease-in-out;
+}
+
+
+#alterm2 {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 70px;
+    padding-left: 40px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation: gradient 15s ease infinite;
+    animation-timing-function: ease-in;
+    -ms-transform: rotate(-1deg); /* IE 9 */
+    transform: rotate(-1deg);   
+}
+
+#alterm2:hover{
+    -ms-transform: rotate(0deg); /* IE 9 */
+    transform: rotate(0deg); 
+    transition: all 0.7s ease-in-out;
+}
+
+#alterm21 {
+    background: linear-gradient(-45deg, #c05a3a, #c92866, #1e80a3, #17b18d);
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 70px;
+    padding-left: 50px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation: gradient 15s ease infinite;
+    animation-timing-function: ease-in;   
+    -ms-transform: rotate(1deg); /* IE 9 */
+    transform: rotate(1deg);    
+}
+
+#alterm21:hover{
+    -ms-transform: rotate(0deg); /* IE 9 */
+    transform: rotate(0deg); 
+    transition: all 0.7s ease-in-out;
+}
+
+#all2 {
+    background: linear-gradient(-45deg,#17b18d,#1e80a3,#c05a3a, #c92866);
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation:  gradient 15s ease infinite;
+    animation-timing-function: ease-in;   
+    -ms-transform: rotate(1deg); /* IE 9 */
+    transform: rotate(1deg);         
+}
+
+#all2:hover{
+    -ms-transform: rotate(0deg); /* IE 9 */
+    transform: rotate(0deg); 
+    transition: all 0.7s ease-in-out;
+}
+
+#alterm23 {
+    background: linear-gradient(-45deg, #e73c7e,#23a6d5, #ee7752, #23d5ab);
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 80px;
+    padding-left: 50px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation:  gradient 15s ease infinite;
+    animation-timing-function: ease-in;   
+    -ms-transform: rotate(-1deg); /* IE 9 */
+    transform: rotate(-1deg);  
+}
+
+#alterm23:hover{
+    -ms-transform: rotate(0deg); /* IE 9 */
+    transform: rotate(0deg); 
+    transition: all 0.7s ease-in-out;
+}
+
+#alterm24 {
+    background: linear-gradient(-45deg,#23a6d5, #23d5ab, #e73c7e, #ee7752);
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 65px 65px 65px 65px;
+    padding-left: 50px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation: gradient 15s ease infinite;
+    animation-timing-function: ease-in;   
+    -ms-transform: rotate(1deg); /* IE 9 */
+    transform: rotate(1deg);  
+}
+
+#alterm24:hover{
+    -ms-transform: rotate(0deg); /* IE 9 */
+    transform: rotate(0deg); 
+    transition: all 0.7s ease-in-out;
+}
+
+#alterm25 {
+    background: linear-gradient(-45deg, #e73cae,#13789c, #dd8064, #099776);
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 65px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation: gradient 15s ease infinite;
+    animation-timing-function: ease-in; 
+    -ms-transform: rotate(-1deg); /* IE 9 */
+    transform: rotate(-1deg);    
+}
+
+#alterm25:hover{
+    -ms-transform: rotate(0deg); /* IE 9 */
+    transform: rotate(0deg); 
+    transition: all 0.7s ease-in-out;
+}
+
+#alterm26 {
+    background: linear-gradient(-45deg, #235bd5, #881541,#087299, #08be63 );
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 105px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation:  gradient 15s ease infinite;
+    animation-timing-function: ease-in;  
+    -ms-transform: rotate(1deg); /* IE 9 */
+    transform: rotate(1deg);   
+}
+
+#alterm26:hover{
+    -ms-transform: rotate(0deg); /* IE 9 */
+    transform: rotate(0deg); 
+    transition: all 0.7s ease-in-out;
+}
+
+#alterm27 {
+    background: linear-gradient(-45deg, #08be63 , #881541, #235bd5, #087299);
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 75px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation:  gradient 15s ease infinite;
+    animation-timing-function: ease-in;  
+    -ms-transform: rotate(-1deg); /* IE 9 */
+    transform: rotate(-1deg);   
+}
+
+#alterm27:hover{
+    -ms-transform: rotate(0deg); /* IE 9 */
+    transform: rotate(0deg); 
+    transition: all 0.7s ease-in-out;
+}
+
+#alterm28 {
+    background: linear-gradient(-45deg, #235bd5, #881541,#087299, #08be63 );
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 75px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation: gradient 15s ease infinite;
+    animation-timing-function: ease-in;  
+    -ms-transform: rotate(1deg); /* IE 9 */
+    transform: rotate(1deg);   
+}
+
+#alterm28:hover{
+    -ms-transform: rotate(0deg); /* IE 9 */
+    transform: rotate(0deg); 
+    transition: all 0.7s ease-in-out;
+}
+
+#alterm29 {
+    background: linear-gradient(-45deg, #27eb90, #da779d,#9fc909, #be0820 );
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 75px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation: gradient 15s ease infinite;
+    animation-timing-function: ease-in;  
+    -ms-transform: rotate(-1deg); /* IE 9 */
+    transform: rotate(-1deg);   
+}
+
+#alterm29:hover{
+    -ms-transform: rotate(0deg); /* IE 9 */
+    transform: rotate(0deg); 
+    transition: all 0.7s ease-in-out;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+@keyframes mymove {
+    from {right: -10px;}
+    to {right: 0px;}
+  }
+
+  @keyframes mymove1 {
+    from {top: -300px;}
+    to {top: 0px;}
+  }
+
+  @keyframes mymove2 {
+    from {left: -10px;}
+    to {left: 0px;}
+  }
+
+#item{
+    text-decoration: none;
+    transition: transform .2s;
+}
+#item:hover{
+ transform: scale(1.01);  
+ transition: all 0.7s ease-in-out;
+ 
+}
+
+.title{
+    text-decoration: none;
+    transition: transform .2s;
+}
+.title:hover{
+    transform: scale(0.90);  
+    transition: all 0.7s ease-in-out;
+   }
+
+
+#well{
+    text-decoration: none;
+    color: white;
+        font-weight: 300;
+        font-size: 40px;
+        line-height: 35px;
+        margin-top: 7px;
+        font-family: TextItalic;
+        -webkit-text-stroke: 0.1px #1a1515;
+        margin-right: 10px;
+        opacity:0.85;
+        letter-spacing: 2px;
+    
+    }
+
+    #anum{
+        text-decoration: none;
+        color: white;
+        font-size: 70px;
+        line-height: 35px;
+        margin-top: 7px;
+        font-family: CamperSans2;
+        /* -webkit-text-stroke: 1px black; */
+        margin-right: 10px;
+        opacity:0.85;
+        letter-spacing: 2px;
+        transition: transform .2s;
+    
+        }
+
+#anum:hover{
+    color: turquoise;
+    transform: scale(1.1);  
+ transition: all 0.7s ease-in-out;
+}
+
+#anum1{
+    text-decoration: none;
+    color: white;
+    animation-timing-function: ease-in;
+    }
+
+    #anum1:hover{
+        text-decoration: none;
+        color: turquoise;
+        transition: all 1s ease-in-out;
+        }
+
+@keyframes fadeLeft {
+    from { transform: translateX(0px);}
+    to { transform: translateX(10px);}
+  }
+  @keyframes fadeRight {
+    from { transform: translateX(10px);}
+    to { transform: translateX(0px);}
+  }
+
+#desc2{
+
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 7px;
+    font-family: TextBold;
+    -webkit-text-stroke: 0.5px black;
+    margin-right: 10px;
+    opacity:0.85;
+    letter-spacing: 2px;
+
+}
+
+
+ }
+
+
+@media only screen and (orientation:portrait){
+
+
+    .size{
+        text-align: center;
+        display: block;
+      
+    }
+    
+    #alterm2 {
+        background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+        background-size: 400% 400%;
+        animation: gradient 15s ease infinite;
+        margin: auto;
+        width:98%;
+        border-radius: 45px;
+        padding-left: 15px;
+        padding-right: 2px;
+        padding-top: 5px;
+        padding-bottom:10px;
+        position: relative;
+        animation: gradient 15s ease infinite;
+        animation-timing-function: ease-in;  
+           
+    }
+
+    #tit1 {
+        background: linear-gradient(-45deg, #eeeb52, #405518, #4cd523, #23d5ab);
+        background-size: 800% 400%;
+        margin: auto;
+        width:98%;
+        border-radius: 45px;
+        padding-left: 10px;
+        padding-right: 10px; 
+        padding-top: 5px;
+        padding-bottom:10px;
+        position: relative;
+        animation: gradient 15s ease infinite;
+        animation-timing-function: ease-in;       
+    }
+
+    
+#alterm21 {
+    background: linear-gradient(-45deg, #c05a3a, #c92866, #1e80a3, #17b18d);
+    background-size: 400% 400%;
+    margin: auto;
+    width:98%;
+    border-radius: 45px;
+    padding-left: 15px;
+    padding-right: 2px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation: gradient 15s ease infinite;
+    animation-timing-function: ease-in;   
+       
+}
+
+#all2 {
+    background: linear-gradient(-45deg,#17b18d,#1e80a3,#c05a3a, #c92866);
+    background-size: 400% 400%;
+    margin: auto;
+    width:98%;
+    border-radius: 45px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 5px;
+        padding-bottom:10px;
+    position: relative;
+    animation: gradient 15s ease infinite;
+    animation-timing-function: ease-in;   
+       
+}
+
+#alterm23 {
+    background: linear-gradient(-45deg, #e73c7e,#23a6d5, #ee7752, #23d5ab);
+    background-size: 400% 400%;
+    margin: auto;
+    width:98%;
+    border-radius: 45px;
+    padding-left: 15px;
+    padding-right: 2px;
+    padding-top: 5px;
+        padding-bottom:10px;
+    position: relative;
+    animation: gradient 15s ease infinite;
+    animation-timing-function: ease-in;   
+}
+
+#alterm24 {
+    background: linear-gradient(-45deg,#23a6d5, #23d5ab, #e73c7e, #ee7752);
+    background-size: 400% 400%;
+    margin: auto;
+    width:98%;
+    border-radius: 45px;
+    padding-left: 15px;
+    padding-right: 2px;
+    padding-top: 5px;
+        padding-bottom:10px;
+    position: relative;
+    animation: gradient 15s ease infinite;
+    animation-timing-function: ease-in;   
+}
+
+#alterm25 {
+    background: linear-gradient(-45deg, #e73cae,#13789c, #dd8064, #099776);
+    background-size: 400% 400%;
+    margin: auto;
+    width:98%;
+    border-radius: 45px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 5px;
+        padding-bottom:10px;
+    position: relative;
+    animation: gradient 15s ease infinite;
+    animation-timing-function: ease-in;   
+}
+
+#alterm26 {
+    background: linear-gradient(-45deg, #235bd5, #881541,#087299, #08be63 );
+    background-size: 400% 400%;
+    margin: auto;
+    width:98%;
+    border-radius: 45px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 5px;
+        padding-bottom:10px;
+    position: relative;
+    animation: gradient 15s ease infinite;
+    animation-timing-function: ease-in;   
+}
+
+#alterm27 {
+    background: linear-gradient(-45deg, #235bd5, #881541,#087299, #08be63 );
+    background-size: 400% 400%;
+    margin: auto;
+    width:98%;
+    border-radius: 45px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 5px;
+        padding-bottom:10px;
+    position: relative;
+    animation: gradient 15s ease infinite;
+    animation-timing-function: ease-in;   
+}
+
+#alterm28 {
+    background: linear-gradient(-45deg, #235bd5, #881541,#087299, #08be63 );
+    background-size: 400% 400%;
+    margin: auto;
+    width:98%;
+    border-radius: 45px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 5px;
+        padding-bottom:10px;
+    position: relative;
+    animation: gradient 15s ease infinite;
+    animation-timing-function: ease-in;   
+}
+
+#alterm29 {
+    background: linear-gradient(-45deg, #27eb90, #da779d,#9fc909, #be0820 );
+    background-size: 400% 400%;
+    margin: auto;
+    width:98%;
+    border-radius: 45px;
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation: gradient 15s ease infinite;
+    animation-timing-function: ease-in;  
+    
+}
+    @keyframes gradient {
+        0% {
+            background-position: 0% 50%;
+        }
+        50% {
+            background-position: 100% 50%;
+        }
+        100% {
+            background-position: 0% 50%;
+        }
+    }
+    
+    @keyframes mymove {
+        from {right: -500px;}
+        to {right: 0px;}
+      }
+    
+      @keyframes mymove1 {
+        from {top: -300px;}
+        to {top: 0px;}
+      }
+    
+      @keyframes mymove2 {
+        from {left: -300px;}
+        to {left: 0px;}
+      }
+    
+    
+    #well{
+        text-decoration: none;
+        color: white;
+            font-weight: bold;
+            font-size: 25px;
+            line-height: 35px;
+            margin-top: 7px;
+            font-family: TextItalic;
+            margin-right: 10px;
+            opacity:0.85;
+            letter-spacing: 2px;
+        
+        }
+    
+        #anum{
+            text-decoration: none;
+            color: white;
+            font-size: 60px;
+            line-height: 35px;
+            margin-top: 7px;
+            font-family: CamperSans2;
+            margin-right: 10px;
+            opacity:0.85;
+            letter-spacing: 2px;
+        
+            }
+            #anum1{
+                text-decoration: none;
+                color: white;
+                }
+            
+                #anum1:hover{
+                    text-decoration: none;
+                    color: turquoise;
+                    }
+    
+    #desc2{
+    
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 20px;
+        margin-top: 7px;
+        font-family: TextBold;
+        margin-right: 10px;
+        opacity:0.85;
+        letter-spacing: 2px;
+    
+    }
+
+}
+

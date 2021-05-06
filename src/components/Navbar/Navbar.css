@@ -1,0 +1,152 @@
+.color-nav {
+    /* background-color: #2a3c434f; */
+    /* background-color: #cec7c7; */
+    /* -webkit-box-shadow: 0px 4px 15px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 4px 15px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 4px 15px 0px rgba(0,0,0,0.75) */
+    box-shadow: none;
+    border: 0;
+}
+
+
+
+
+@media only screen and (orientation:landscape){
+    #logo-href{
+        text-decoration: none;
+        color: #ff1515;
+            font-weight:600;
+            font-size: 61px;
+            line-height: 45px;
+            margin-top: 17px;
+            font-family: CamperSans2;
+            -webkit-text-stroke: 0.1px #c41919;
+            animation: fadeinLeft 3s;
+            animation-timing-function: ease-in;
+            letter-spacing: 2px;
+            width: 100%;
+            transition: transform .2s;        
+        }
+        .nav-font {
+            color: white;
+            font-weight: bold;
+            font-size: 25px;
+            line-height: 35px;
+            margin-top: 7px;
+            font-family: TextBold;
+            margin-right: 10px;
+            opacity:2;
+            letter-spacing: 2px;
+            padding-right: -0.5rem;
+            padding-left: -0.5rem;
+        }
+        #logo-href:hover{
+            color: white;
+    transform: scale(1.1);  
+ transition: all 0.7s ease-in-out;
+        }
+.drop{
+    font-size: 20px;
+}
+
+
+}
+
+.navbar{
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+     box-shadow: none;
+     text-shadow: none;
+}
+
+#nav-dropdown{
+    background-color: "#2A3c43";
+}
+
+.nav-font:hover {
+    color:white;
+    opacity:1;
+    text-decoration: none;
+    transition: all 0.7s ease-in-out;
+
+}
+#logo-nav {
+    width: 450px;
+}
+@media only screen and (orientation:portrait){
+    .nav-font {
+        color: #c20346;
+        font-size: 17px;
+        line-height: 35px;
+        margin-top: 7px;
+        font-family: TextBold;
+        opacity:0.85;
+        /* margin-left: 20px; */
+    }
+    #logo-href{
+        text-decoration: none;
+        color: #ff1515;
+            /* font-size: 20px; */
+            /* font-family: Roboto; */
+            /* font-style: normal; */
+            font-weight: bold;
+            font-size: 40px;
+            line-height: 35px;
+            margin-top: 7px;
+            font-family: CamperSans2;
+            -webkit-text-stroke: 0.1px #c41919;
+            animation: fadeinLeft 3s;
+            animation-timing-function: ease-in;
+            margin-right: 10px;
+            opacity:0.85;
+            letter-spacing: 2px;
+        
+        }
+    .drop{
+        font-size: 18px;
+    }
+    .nav-size {
+        margin-right: 5px;
+    }
+    /* .navDropDown {
+        margin-left: -50px;
+    } */
+
+    #logo-nav {
+        width: 200px;
+    }
+
+}
+
+@media screen and (min-width: 769px) {
+    .nav-font {
+        margin-left: 20px;
+    }
+    .nav-size {
+        margin-left: 100px;
+    }
+  }
+
+
+@font-face {
+    font-family: TextItalic;
+    src: url(./../../assets/fonts/NeutraTextBookItalic.otf);
+}
+@font-face {
+    font-family: TextBold;
+    src: url(./../../assets/fonts/NeutraTextBold.otf);
+}
+@font-face {
+    font-family: TextBook;
+    src: url(./../../assets/fonts/NeutraTextBook.otf);
+}
+
+@font-face {
+    font-family: NeutraLight;
+    src: url(./../../assets/fonts/NeutraTextDemi.otf);
+}
+
+@font-face {
+    font-family: CamperSans2;
+    src: url(./../../assets/fonts/Fenotype\ -\ CamperSans2.otf);
+}

@@ -1,0 +1,501 @@
+
+
+#test{
+    text-align: left;  
+
+}
+
+
+
+
+
+
+  #lit {
+    position: relative;
+    animation: moveright 5s;
+    animation-timing-function: ease-in;
+  }
+
+
+
+
+@media only screen and (orientation:landscape){
+
+
+.size{
+    text-align: center;
+    display: block;
+  
+}
+
+#tit {
+    background: linear-gradient(-45deg, #eeeb52, #405518, #d523bd, #23d5ab);
+    background-size: 1000% 400%;
+    margin: auto;
+    width:65%;
+    border-radius: 105px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:5px ;
+    padding-bottom:5px ;
+    position: relative;
+    animation:gradient 16s ease infinite;
+    animation-timing-function: ease-in;      
+}
+
+#tit:hover{
+    animation:pulse;
+    animation-duration:1s;
+}
+
+
+
+#al {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 70px;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation:gradient 16s ease infinite;
+    animation-timing-function: ease-in;
+       
+}
+
+#al1 {
+    background: linear-gradient(-45deg, #c05a3a, #c92866, #1e80a3, #17b18d);
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 70px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation:gradient 16s ease infinite;
+    animation-timing-function: ease-in;   
+       
+}
+
+
+#al2 {
+    background: linear-gradient(-45deg,#17b18d,#1e80a3,#c05a3a, #c92866);
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 80px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation:gradient 16s ease infinite;
+    animation-timing-function: ease-in;   
+       
+}
+
+#al3 {
+    background: linear-gradient(-45deg, #e73c7e,#23a6d5, #ee7752, #23d5ab);
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 80px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation:gradient 16s ease infinite;
+    animation-timing-function: ease-in;   
+}
+
+#al4 {
+    background: linear-gradient(-45deg,#23a6d5, #23d5ab, #e73c7e, #ee7752);
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 105px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation:gradient 16s ease infinite;
+    animation-timing-function: ease-in;   
+}
+
+#al5 {
+    background: linear-gradient(-45deg, #e73cae,#13789c, #dd8064, #099776);
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 75px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation:gradient 16s ease infinite;
+    animation-timing-function: ease-in;   
+}
+
+#al6 {
+    background: linear-gradient(-45deg, #235bd5, #881541,#087299, #08be63 );
+    background-size: 400% 400%;
+    margin: auto;
+    width:70%;
+    border-radius: 105px;
+    padding-left: 50px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    position: relative;
+    animation:gradient 16s ease infinite;
+    animation-timing-function: ease-in;   
+}
+
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+@keyframes moveright {
+    from {right: -30%;}
+    to {right: 0px;}
+  }
+
+  @keyframes moveup {
+    from {top: -300px;}
+    to {top: 0px;}
+  }
+
+  @keyframes moveleft {
+    from {left: -40%;}
+    to {left: 0px;}
+  }
+
+#item{
+    text-decoration: none;
+    transition: transform .2s;
+}
+#item:hover{
+ transform: scale(1.01);  
+ transition: all 0.7s ease-in-out;
+
+}
+
+.title{
+    text-decoration: none;
+    transition: transform .2s;
+}
+.title:hover{
+    transform: scale(0.90);  
+    transition: all 0.7s ease-in-out;
+   }
+
+
+#well{
+    text-decoration: none;
+    color: white;
+        font-weight: 300;
+        font-size: 35px;
+        line-height: 35px;
+        margin-top: 7px;
+        font-family: TextItalic;
+        -webkit-text-stroke: 0.1px #1a1515;
+        margin-right: 10px;
+        opacity:0.85;
+        letter-spacing: 2px;
+    
+    }
+
+    #anum{
+        text-decoration: none;
+        color: white;
+        font-size: 70px;
+        line-height: 35px;
+        margin-top: 7px;
+        font-family: CamperSans2;
+        /* -webkit-text-stroke: 1px black; */
+        margin-right: 10px;
+        opacity:0.85;
+        letter-spacing: 2px;
+        transition: transform .2s;
+    
+        }
+
+#anum:hover{
+    color: turquoise;
+    transform: scale(1.1);  
+ transition: all 0.7s ease-in-out;
+}
+
+#anum1{
+    text-decoration: none;
+    color: white;
+    animation-timing-function: ease-in;
+    }
+
+    #anum1:hover{
+        text-decoration: none;
+        color: turquoise;
+        transition: all 1s ease-in-out;
+        }
+
+@keyframes fadeLeft {
+    from { transform: translateX(0px);}
+    to { transform: translateX(10px);}
+  }
+  @keyframes fadeRight {
+    from { transform: translateX(10px);}
+    to { transform: translateX(0px);}
+  }
+
+#desc{
+
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 7px;
+    font-family: TextBold;
+    -webkit-text-stroke: 0.5px black;
+    margin-right: 10px;
+    opacity:0.85;
+    letter-spacing: 2px;
+
+}
+
+
+ }
+
+
+@media only screen and (orientation:portrait){
+
+
+    .size{
+        text-align: center;
+        display: block;
+      
+    }
+    
+    #al {
+        background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+        background-size: 400% 400%;
+        animation: gradient 15s ease infinite;
+        margin: auto;
+        width:98%;
+        border-radius: 45px;
+        padding-left: 10px;
+        padding-right: 2px;
+        padding-top: 5px;
+        padding-bottom:10px;
+        position: relative;
+        animation:gradient 16s ease infinite;
+        animation-timing-function: ease-in;  
+           
+    }
+
+    #tit {
+        background: linear-gradient(-45deg, #eeeb52, #405518, #4cd523, #23d5ab);
+        background-size: 800% 400%;
+        margin: auto;
+        width:98%;
+        border-radius: 45px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom:10px;
+        position: relative;
+        animation:gradient 16s ease infinite;
+        animation-timing-function: ease-in;  
+           
+    }
+
+    
+#al1 {
+    background: linear-gradient(-45deg, #c05a3a, #c92866, #1e80a3, #17b18d);
+    background-size: 400% 400%;
+    margin: auto;
+    width:98%;
+    border-radius: 45px;
+    padding-left: 20px;
+    padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom:10px;
+    position: relative;
+    animation:gradient 16s ease infinite;
+    animation-timing-function: ease-in;   
+       
+}
+
+#al2 {
+    background: linear-gradient(-45deg,#17b18d,#1e80a3,#c05a3a, #c92866);
+    background-size: 400% 400%;
+    margin: auto;
+    width:98%;
+    border-radius: 45px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+        padding-bottom:10px;
+    position: relative;
+    animation:gradient 16s ease infinite;
+    animation-timing-function: ease-in;   
+       
+}
+
+#al3 {
+    background: linear-gradient(-45deg, #e73c7e,#23a6d5, #ee7752, #23d5ab);
+    background-size: 400% 400%;
+    margin: auto;
+    width:98%;
+    border-radius: 45px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+        padding-bottom:10px;
+    position: relative;
+    animation:gradient 16s ease infinite;
+    animation-timing-function: ease-in;   
+}
+
+#al4 {
+    background: linear-gradient(-45deg,#23a6d5, #23d5ab, #e73c7e, #ee7752);
+    background-size: 400% 400%;
+    margin: auto;
+    width:98%;
+    border-radius: 45px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+        padding-bottom:10px;
+    position: relative;
+    animation:gradient 16s ease infinite;
+    animation-timing-function: ease-in;   
+}
+
+#al5 {
+    background: linear-gradient(-45deg, #e73cae,#13789c, #dd8064, #099776);
+    background-size: 400% 400%;
+    margin: auto;
+    width:98%;
+    border-radius: 45px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+        padding-bottom:10px;
+    position: relative;
+    animation:gradient 16s ease infinite;
+    animation-timing-function: ease-in;   
+}
+
+#al6 {
+    background: linear-gradient(-45deg, #235bd5, #881541,#087299, #08be63 );
+    background-size: 400% 400%;
+    margin: auto;
+    width:98%;
+    border-radius: 45px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+        padding-bottom:10px;
+    position: relative;
+    animation:gradient 16s ease infinite;
+    animation-timing-function: ease-in;   
+}
+
+    @keyframes gradient {
+        0% {
+            background-position: 0% 50%;
+        }
+        50% {
+            background-position: 100% 50%;
+        }
+        100% {
+            background-position: 0% 50%;
+        }
+    }
+    
+    @keyframes moveright {
+        from {right: -80%;}
+        to {right: 0px;}
+      }
+    
+      @keyframes moveup {
+        from {top: -300px;}
+        to {top: 0px;}
+      }
+    
+      @keyframes moveleft {
+        from {left: -80%;}
+        to {left: 0px;}
+      }
+    
+    
+    #well{
+        text-decoration: none;
+        color: white;
+            font-weight: bold;
+            font-size: 25px;
+            line-height: 35px;
+            margin-top: 7px;
+            font-family: TextItalic;
+            margin-right: 10px;
+            opacity:0.85;
+            letter-spacing: 2px;
+        
+        }
+    
+        #anum{
+            text-decoration: none;
+            color: white;
+            font-size: 60px;
+            line-height: 35px;
+            margin-top: 7px;
+            font-family: CamperSans2;
+            margin-right: 10px;
+            opacity:0.85;
+            letter-spacing: 2px;
+        
+            }
+            #anum1{
+                text-decoration: none;
+                color: white;
+                }
+            
+                #anum1:hover{
+                    text-decoration: none;
+                    color: turquoise;
+                    }
+    
+    #desc{
+    
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 20px;
+        margin-top: 7px;
+        font-family: TextBold;
+        margin-right: 10px;
+        opacity:0.85;
+        letter-spacing: 2px;
+    
+    }
+
+}
