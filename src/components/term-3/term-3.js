@@ -39,11 +39,13 @@ class Term_3 extends Component {
             <div id="test">
             
             <p id="desc"  >
-            <div className="title"> 
-            If you have a PayPal account, you can easily send us a donation.</div>
-                
+            
+           
             <ul style={{ textAlign: 'left', marginLeft: '-5px', marginTop: '10px' }} >
-
+            <ScrollAnimation animateIn='zoomInDown'
+                        animateOut='flipOutX' duration="2"  offset={50}>
+                        <li id="item"> If you have a PayPal account, you can easily send us a donation
+                        by doing the following</li> </ScrollAnimation>
                         <ScrollAnimation animateIn='zoomInDown'
                         animateOut='flipOutX' duration="2"  offset={50}>
                         <li id="item">Sign in to your PayPal Account</li> </ScrollAnimation>
@@ -76,7 +78,7 @@ class Term_3 extends Component {
         animateOut='bounceOut' duration="4" offset={5}>  
     <div id="at32">
        
-            <p id="anum" ><a href="" target="_blank" id="anum1" >2. Bank Transfer</a></p>
+            <p id="anum" ><a href="" id="anum1" >2. Bank Transfer</a></p>
             <p id="well" className="title">Here are the details</p>
             <div id="test">
             
@@ -107,6 +109,14 @@ class Term_3 extends Component {
                         <li  id="item">
                         Account Number: <span id="a2">96-000-000-00-535705</span></li></ScrollAnimation>
                         
+                        <ScrollAnimation animateIn='zoomInDown'
+                        animateOut='flipOutX' duration="4" delay={1000} offset={50}>
+                        <li  id="item">
+                        Account Address: <span id="a2">TransferWise,
+                         19 W 24th Street,
+                         New York, NY 10010
+                        United States</span></li></ScrollAnimation>
+
                         </ul>
 
 </p>
