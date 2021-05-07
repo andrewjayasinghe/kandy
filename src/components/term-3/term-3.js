@@ -135,15 +135,8 @@ animateOut='bounceOut' duration="2" offset={5}>
 <p id="anum" ><a href="https://www.bcit.ca/outlines/20203034750/" target="blank" id="anum1" >3. Mailing Address</a></p>
 <p id="well" className="title">Here are the details</p>
 <div id="test">
-<p id="desc" className="title">In this course I learned how to install, create databases and 
-perform basic administration. I learned how to configure
- the database to support different applications, perform tasks such as create 
- users and schema objects, apply constraints, setup access control, assign memory,
-  define storage structures and manipulate data. Since database administration does
-   not end after the database is created, I also learned the importance of 
-   backup and recovery strategy. A good understanding of the DBMS architecture, 
-   performance monitoring and concurrency control are essential to ensure the
-    database operates smoothly to support transaction processing.
+<p id="desc" className="title">If the options above will not work for you, then snail main is the solution. You can Mail
+us a cheque or cash written out to 
 </p>
 
 </div>

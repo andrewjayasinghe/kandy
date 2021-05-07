@@ -28,8 +28,9 @@ class Term_1 extends Component {
                                 <ReactBootStrap.Spinner animation="grow" variant="warning" style={{ width: "30px", height:"35px" }}/></div>
 
                                 <p id="desc">Welcome to our wedding website! We made this as a one stop shop for all things about 
-                                our wedding. On the top right corner, you can see that theres 2 options. We have a Jar which you can
-                                donate funds to, or an Amazon registry.
+                                us and our wedding. Due to the pandemic and related travel restrictions, We are having our wedding online
+                                so we decided to make things a little fun by creating this website.
+                    
                         </p>
                             </div>
                         </ScrollAnimation>
@@ -41,14 +42,47 @@ class Term_1 extends Component {
                             animateOut='animate__backOutLeft' duration="2" offset={5}>  
                         <div id="al2">
                            
-                                <p id="anum" ><a href="https://www.bcit.ca/outlines/20193034355/" target="blank" id="anum1" >ACIT 1630</a></p>
-                                <p id="well" className="title">Database Systems</p>
+                                <p id="anum" ><span id="anum1" >A few Details</span></p>
+                                {/* <p id="well" className="title">Database Systems</p> */}
                                 <div id="test">
-                                <p id="desc"  className="title">This course covered relational database technology,
-                                including basic concepts, relational algebra, enhanced entity-relationship data modeling,
-                                functional dependencies and normalization, design methodology, SQL query language (DDL and DML),
-                                views, security and transaction management.
- </p>
+                                <p id="desc"  >
+            <div className="title"> </div>
+                
+               
+                 
+
+                  <ul style={{ textAlign: 'left', marginLeft: '-5px', marginTop: '10px' }} >
+
+                        <ScrollAnimation animateIn='zoomInDown'
+                        animateOut='flipOutX' duration="2"  offset={50}>
+                        <li id="item">We are using TransferWise to receive US dollar payments. You can send money to these details from any bank in the US.</li> </ScrollAnimation>
+                        <ScrollAnimation animateIn='zoomInDown'
+                        animateOut='flipOutX' duration="2" delay={1000}  offset={50}>
+                        <li  id="item"> Account holder: <span id="a2">Andrew Jayasinghe</span>   </li></ScrollAnimation>
+
+                        <ScrollAnimation animateIn='zoomInDown'
+                        animateOut='flipOutX' duration="3" delay={1000}  offset={50}>
+                        <li  id="item">
+                        Routing Number: <span id="a2">084-00-9519</span>
+                        </li>
+                        </ScrollAnimation>
+
+                        <ScrollAnimation animateIn='zoomInDown'
+                        animateOut='flipOutX' duration="4" delay={1000} offset={50}>
+                        <li  id="item">
+                        Account Number: <span id="a2">96-000-000-00-535705</span></li></ScrollAnimation>
+                        
+                        <ScrollAnimation animateIn='zoomInDown'
+                        animateOut='flipOutX' duration="4" delay={1000} offset={50}>
+                        <li  id="item">
+                        Account Address: <span id="a2">TransferWise,
+                         19 W 24th Street,
+                         New York, NY 10010
+                        United States</span></li></ScrollAnimation>
+
+                        </ul>
+
+</p>
 
                             </div>
                         </div>
