@@ -128,7 +128,7 @@ class Term_1 extends Component {
                                 <p id="anum" ><span id="anum1" >About Andrew</span></p>
                                 {/* <p id="well" className="title">Scripting using Python</p> */}
                                 <div id="test">
-                                <p id="desc"  className="title">Hey everyone I am Andrew!. To those that don't know me,
+                                <p id="desc"  className="title">Hey everyone I am Andrew! To those that don't know me,
                                 I am Karla's husband to be! Since i haven't had the opportunity to meet any of you in person, I thought 
                                 I'd introduce myself. I was born in Sri Lanka which is a tiny island just off the tip of India (but im 
                                 not Indian)
@@ -172,7 +172,7 @@ class Term_1 extends Component {
                         <img src={us} alt="us" className="ourpic"/></div></ScrollAnimation>
                                    
                                 <p id="desc"  className="title">
-                                Our journey begins on the 18th of May, 2020. It all started on Mututal(a dating app),
+                                Our journey began on the 18th of May, 2020. It all started on Mutual(a dating app),
                                  The borders were closed because of covid with very little exemptions so we kept talking online. I would drive 5 hours one way every weekend over the summer up to a 
                                  park in Washington on the border of Canada to see him. We would spend all day laying and talking 
                                  wishing and thinking of what life will be like once we could finally be together. Later as fall and 
