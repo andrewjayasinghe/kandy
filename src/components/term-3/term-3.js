@@ -126,7 +126,7 @@ class Term_3 extends Component {
     </ScrollAnimation>
 </ReactBootStrap.Row>
 
-<ReactBootStrap.Row className="size" style={{ marginTop: "20px" }}>
+<ReactBootStrap.Row className="size" style={{ marginTop: "20px", marginBottom:"100px" }}>
 
 <ScrollAnimation animateIn='bounceIn'
 animateOut='bounceOut' duration="2" offset={5}>   
@@ -140,7 +140,7 @@ us a cheque or cash written out to :
 </p>
 <div style={{ textAlign: "center" }}><p id="desc" className="title"><span id="a2">3624 Brooke st</span></p></div>
 <div style={{ textAlign: "center" }}><p id="desc" className="title"><span id="a2">Forest Grove</span></p></div>
-<div style={{ textAlign: "center" }}><p id="desc" className="title"><span id="a2">97116</span></p></div>
+<div style={{ textAlign: "center" }}><p id="desc" className="title"><span id="a2">97116, Oregon</span></p></div>
 
 
 </div>

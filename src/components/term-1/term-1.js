@@ -38,7 +38,7 @@ class Term_1 extends Component {
         
         return (
             <>
-                <ReactBootStrap.Container style={{ marginTop: "20px" }}>
+                <ReactBootStrap.Container style={{ marginTop: "20px", marginBottom:"100px" }}>
 
                     <ReactBootStrap.Row className="size">
                     <ScrollAnimation animateIn='zoomInDown'
