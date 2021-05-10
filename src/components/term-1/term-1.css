@@ -33,6 +33,10 @@
     width: 300px;
     border-radius: 15px;
 }
+.video{
+    width:640px;
+    height:340px;
+}
 .button {
     display: inline-block;
     padding: 5px 15px;
@@ -173,7 +177,6 @@
 }
 
 #al6 {
-    background: linear-gradient(-45deg, #235bd5, #881541,#087299, #08be63 );
     background-size: 400% 400%;
     margin: auto;
     width:70%;
@@ -440,10 +443,9 @@
 }
 
 #al6 {
-    background: linear-gradient(-45deg, #235bd5, #881541,#087299, #08be63 );
     background-size: 400% 400%;
     margin: auto;
-    width:98%;
+    width:100%;
     border-radius: 45px;
     padding-left: 20px;
     padding-right: 10px;
@@ -545,6 +547,10 @@
         border: none;
         border-radius: 15px;
         box-shadow: 0 4px #999;
+      }
+      .video{
+          width:100%;
+          border-radius: 15px;
       }
 
 }

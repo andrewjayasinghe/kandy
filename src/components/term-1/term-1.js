@@ -50,7 +50,19 @@ class Term_1 extends Component {
                         </ScrollAnimation>
                     </ReactBootStrap.Row>
 
+                    <ReactBootStrap.Row className="size" style={{ marginTop: "20px", marginBottom: "20px" }}>
+                    <ScrollAnimation animateIn='animate__backInLeft'
+                            animateOut='animate__backOutRight' duration="2" offset={5} >  
+                        <div id="al6">
+                               
+                                <div id="test">
+                            
+<iframe src="https://player.vimeo.com/video/547309241" className="video" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
+
+                            </div>  </div>
+                            </ScrollAnimation>
+                    </ReactBootStrap.Row>
                     <ReactBootStrap.Row className="size" style={{ marginTop: "20px" }}>
                         <ScrollAnimation animateIn='animate__backInRight'
                             animateOut='animate__backOutLeft' duration="2" offset={5}>  
@@ -142,6 +154,9 @@ class Term_1 extends Component {
                         </ScrollAnimation>
                     </ReactBootStrap.Row>
 
+                  
+
+
                     <ReactBootStrap.Row className="size" style={{ marginTop: "20px" }}>
                     <ScrollAnimation animateIn='animate__backInRight'
                             animateOut='animate__backOutLeft' duration="2" offset={5}> 
@@ -155,47 +170,27 @@ class Term_1 extends Component {
                         <img src={us} alt="us" className="ourpic"/></div></ScrollAnimation>
                                    
                                 <p id="desc"  className="title">
-                                We met May 18th 2020 on a dating app called Mutual. It's for members
-                                 of our church to meet. We started texting and that night we video 
-                                 chatted. We've been video chatting everyday since. In July 2020 we were
-                                  able to meet in person on the border of Washington and Canada at a park 
-                                  called Peace Arch Park. Canadians and Americans can meet there since 
-                                   borders are closed because of covid. Every week we would go and spend a
-                                    whole day at the park. Karla would drive 5 hours from Oregon to get there 
-                                    and Andrew would have to take public transit for 2 hours to get there.
-                                     We would bring a blanket to lay on and food for lunch. All day we would
-                                      just lay and talk. As winter came we weren't able to see each other 
-                                      in person anymore. We are so excited to finally start our lives 
-                                      together and for us to live together in Canada.
+                                Our journey begins on the 18th of May, 2020. It all started on Mututal(a dating app),
+                                 The borders were closed because of covid with very little exemptions so we kept talking online. I would drive 5 hours one way every weekend over the summer up to a 
+                                 park in Washington on the border of Canada to see him. We would spend all day laying and talking 
+                                 wishing and thinking of what life will be like once we could finally be together. Later as fall and 
+                                 winter came along, more restriction were added at the park and because he was not a citizen of canada,
+                                  he wasn't allowed to cross over into the park. This meant that we could only see each other across a 
+                                  ditch that separated the two countries, without being able to hug or kiss each other. Time passed and we 
+                                  hoped that the borders would open but the wait kept getting longer and longer. This was when we decided to 
+                                  see each other at the park once again so that we could at least see each other in person, even though it 
+                                  would be across a ditch. It was a snowy freezing valantine's day and we decided to meet early to avoid the 
+                                  crowds that would gather. I drove up very slowly because of the snow and ice on the roads turning a normal
+                                   5 hour drive into an 8 hour drive. My finance took a bus and then had to walk 6 miles in the snow and cold 
+                                   to get to the park where we finally got to see each other. Flowers and the ring in hand he got down on one 
+                                   knee and proposed to me
  </p>
 
                             </div>  </div>
                             </ScrollAnimation>
                     </ReactBootStrap.Row>
 
-                    <ReactBootStrap.Row className="size" style={{ marginTop: "20px", marginBottom: "20px" }}>
-                    <ScrollAnimation animateIn='animate__backInLeft'
-                            animateOut='animate__backOutRight' duration="2" offset={5} >  
-                        <div id="al6">
-                                <p id="anum" ><a href="https://www.bcit.ca/outlines/20193034585/" target="blank" id="anum1" >ORGB 1100</a></p>
-                                <p id="well" className="title">Organizational Behavior</p>
-                                <div id="test">
-                                <p id="desc"  className="title">                                         
-                                This course Presented the study of
-                            factors that either influence or are influenced by
-                            people at work. The course focused on macro factors such
-                            as organizational structure, technology and environment; group
-                            factors such as group dynamics, leadership, conflict, change and decision making;
-                            and micro or individual factors such as personality, attitudes,
-                             perception and motivation
-                             </p>
-
-
-
-                            </div>  </div>
-                            </ScrollAnimation>
-                    </ReactBootStrap.Row>
-
+                 
 
                 </ReactBootStrap.Container> 
 
