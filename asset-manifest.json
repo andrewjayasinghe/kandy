@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/kandy/static/css/main.1cad7e69.chunk.css",
-    "main.js": "/kandy/static/js/main.3678437d.chunk.js",
-    "main.js.map": "/kandy/static/js/main.3678437d.chunk.js.map",
+    "main.css": "/kandy/static/css/main.509098bb.chunk.css",
+    "main.js": "/kandy/static/js/main.28743924.chunk.js",
+    "main.js.map": "/kandy/static/js/main.28743924.chunk.js.map",
     "runtime-main.js": "/kandy/static/js/runtime-main.d05ed81c.js",
     "runtime-main.js.map": "/kandy/static/js/runtime-main.d05ed81c.js.map",
     "static/css/2.87575806.chunk.css": "/kandy/static/css/2.87575806.chunk.css",
-    "static/js/2.70119671.chunk.js": "/kandy/static/js/2.70119671.chunk.js",
-    "static/js/2.70119671.chunk.js.map": "/kandy/static/js/2.70119671.chunk.js.map",
+    "static/js/2.76d364ca.chunk.js": "/kandy/static/js/2.76d364ca.chunk.js",
+    "static/js/2.76d364ca.chunk.js.map": "/kandy/static/js/2.76d364ca.chunk.js.map",
     "static/js/3.d14c67cd.chunk.js": "/kandy/static/js/3.d14c67cd.chunk.js",
     "static/js/3.d14c67cd.chunk.js.map": "/kandy/static/js/3.d14c67cd.chunk.js.map",
     "index.html": "/kandy/index.html",
     "static/css/2.87575806.chunk.css.map": "/kandy/static/css/2.87575806.chunk.css.map",
-    "static/css/main.1cad7e69.chunk.css.map": "/kandy/static/css/main.1cad7e69.chunk.css.map",
-    "static/js/2.70119671.chunk.js.LICENSE.txt": "/kandy/static/js/2.70119671.chunk.js.LICENSE.txt",
+    "static/css/main.509098bb.chunk.css.map": "/kandy/static/css/main.509098bb.chunk.css.map",
+    "static/js/2.76d364ca.chunk.js.LICENSE.txt": "/kandy/static/js/2.76d364ca.chunk.js.LICENSE.txt",
     "static/media/COVID.95fac945.pdf": "/kandy/static/media/COVID.95fac945.pdf",
     "static/media/Navbar.css": "/kandy/static/media/NeutraTextDemi.6d62b745.otf",
     "static/media/index.css": "/kandy/static/media/bun.62127238.jpg",
-    "static/media/unofficial.f65e1078.pdf": "/kandy/static/media/unofficial.f65e1078.pdf"
+    "static/media/unofficial.f65e1078.pdf": "/kandy/static/media/unofficial.f65e1078.pdf",
+    "static/media/us.3bb96cc5.jpg": "/kandy/static/media/us.3bb96cc5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d05ed81c.js",
     "static/css/2.87575806.chunk.css",
-    "static/js/2.70119671.chunk.js",
-    "static/css/main.1cad7e69.chunk.css",
-    "static/js/main.3678437d.chunk.js"
+    "static/js/2.76d364ca.chunk.js",
+    "static/css/main.509098bb.chunk.css",
+    "static/js/main.28743924.chunk.js"
   ]
 }
