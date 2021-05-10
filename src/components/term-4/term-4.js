@@ -24,7 +24,7 @@ class Term_4 extends Component {
             
             <ReactBootStrap.Container style={{ marginTop: "100px", marginBottom:"400px" }}>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfHZ1thOszNdyolL1yFF6yizR4JYOlpDdTj_MYjEED_dn8P7g/viewform?embedded=true" width="100%" height="700px" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>  
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfHZ1thOszNdyolL1yFF6yizR4JYOlpDdTj_MYjEED_dn8P7g/viewform?embedded=true" width="100%" height="1200px" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>  
 
 
 </ReactBootStrap.Container>
