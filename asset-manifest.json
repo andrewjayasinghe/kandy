@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/kandy/static/css/main.0cd40cd5.chunk.css",
-    "main.js": "/kandy/static/js/main.813201bb.chunk.js",
-    "main.js.map": "/kandy/static/js/main.813201bb.chunk.js.map",
+    "main.css": "/kandy/static/css/main.261a7240.chunk.css",
+    "main.js": "/kandy/static/js/main.b3790c5f.chunk.js",
+    "main.js.map": "/kandy/static/js/main.b3790c5f.chunk.js.map",
     "runtime-main.js": "/kandy/static/js/runtime-main.d05ed81c.js",
     "runtime-main.js.map": "/kandy/static/js/runtime-main.d05ed81c.js.map",
     "static/css/2.87575806.chunk.css": "/kandy/static/css/2.87575806.chunk.css",
@@ -12,19 +12,20 @@
     "static/js/3.d14c67cd.chunk.js.map": "/kandy/static/js/3.d14c67cd.chunk.js.map",
     "index.html": "/kandy/index.html",
     "static/css/2.87575806.chunk.css.map": "/kandy/static/css/2.87575806.chunk.css.map",
-    "static/css/main.0cd40cd5.chunk.css.map": "/kandy/static/css/main.0cd40cd5.chunk.css.map",
+    "static/css/main.261a7240.chunk.css.map": "/kandy/static/css/main.261a7240.chunk.css.map",
     "static/js/2.76d364ca.chunk.js.LICENSE.txt": "/kandy/static/js/2.76d364ca.chunk.js.LICENSE.txt",
     "static/media/COVID.95fac945.pdf": "/kandy/static/media/COVID.95fac945.pdf",
     "static/media/Navbar.css": "/kandy/static/media/NeutraTextDemi.6d62b745.otf",
     "static/media/index.css": "/kandy/static/media/bun.62127238.jpg",
     "static/media/unofficial.f65e1078.pdf": "/kandy/static/media/unofficial.f65e1078.pdf",
-    "static/media/us.3bb96cc5.jpg": "/kandy/static/media/us.3bb96cc5.jpg"
+    "static/media/us.3bb96cc5.jpg": "/kandy/static/media/us.3bb96cc5.jpg",
+    "static/media/wink.04ca5c76.png": "/kandy/static/media/wink.04ca5c76.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d05ed81c.js",
     "static/css/2.87575806.chunk.css",
     "static/js/2.76d364ca.chunk.js",
-    "static/css/main.0cd40cd5.chunk.css",
-    "static/js/main.813201bb.chunk.js"
+    "static/css/main.261a7240.chunk.css",
+    "static/js/main.b3790c5f.chunk.js"
   ]
 }
