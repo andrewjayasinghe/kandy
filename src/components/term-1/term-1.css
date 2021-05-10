@@ -221,6 +221,7 @@
 #item{
     text-decoration: none;
     transition: transform .2s;
+    margin-bottom: 20px;
 }
 #item:hover{
  transform: scale(1.01);  
@@ -310,6 +311,9 @@
     letter-spacing: 2px;
 
 }
+.wink{
+    width: 25px;
+    border-radius: 15px;}
 
 
  }
@@ -324,6 +328,14 @@
       
     }
     
+#item{
+    text-decoration: none;
+    transition: transform .2s;
+    margin-bottom: 10px;
+}
+.wink{
+    width: 18px;
+    border-radius: 15px;}
     .ourpic{
     width: 300px;
     border-radius: 15px;

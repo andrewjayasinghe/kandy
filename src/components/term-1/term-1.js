@@ -4,6 +4,7 @@ import * as ReactBootStrap from "react-bootstrap";
 import ScrollAnimation from 'react-animate-on-scroll';
 import "./term-1.css"
 import us from './../../assets/us.jpg'; // Tell webpack this JS file uses this image
+import wink from './../../assets/wink.png'; // Tell webpack this JS file uses this image
 
 class Term_1 extends Component {
     state = {
@@ -41,7 +42,7 @@ class Term_1 extends Component {
                                 <div style={{display:"inline-block"}}>
                                 <ReactBootStrap.Spinner animation="grow" variant="warning" style={{ width: "30px", height:"35px" }}/></div>
 
-                                <p id="desc">Welcome to our wedding website! We made this as a one stop shop for all things about 
+                                <p id="desc">Welcome to our website! We made this as a one stop shop for all things about 
                                 us and our wedding. Due to the pandemic and related travel restrictions, We are having our wedding online
                                 so we decided to make things a little fun by creating this website.
                     
@@ -84,26 +85,30 @@ class Term_1 extends Component {
                         <li id="item">We are using Amazon Canada to set up our wedding registry.</li> </ScrollAnimation>
                         <ScrollAnimation animateIn='zoomInDown'
                         animateOut='flipOutX' duration="2" delay={1000}  offset={50}>
-                        <li  id="item"> If you would rather donate to our wedding fund, click on the 
+                        <li  id="item"> If you decide to go for a donation instead and are from the US, we have 3 options to choose from.
+                        Click on the 
                         {this.renderRedirect()}
-                        <button class="button" onClick={this.setRedirect}>Jar</button> Button. </li></ScrollAnimation>
+                        <button class="button" onClick={this.setRedirect}>Jar</button> Button to view these options. </li></ScrollAnimation>
 
                         <ScrollAnimation animateIn='zoomInDown'
                         animateOut='flipOutX' duration="3" delay={1000}  offset={50}>
-                        <li  id="item">
+                        <li  id="item"> If you are from outside the US and would like to make a donation, contact Andrew. 
                         </li>
                         </ScrollAnimation>
 
                         <ScrollAnimation animateIn='zoomInDown'
                         animateOut='flipOutX' duration="4" delay={1000} offset={50}>
-                        <li  id="item">
+                        <li  id="item"> We have also created a simple form that you can use to leave us a message, or advice or 
+                        anything really that you would like us to know and the contents of the form can only be seen by us
+                        so dont be afraid to be honest  <img src={wink} alt="us" className="wink"/>
                         </li></ScrollAnimation>
-                        
+
+{/*                         
                         <ScrollAnimation animateIn='zoomInDown'
                         animateOut='flipOutX' duration="4" delay={1000} offset={50}>
                         <li  id="item">
                         
-                        </li></ScrollAnimation>
+                        </li></ScrollAnimation> */}
 
                         </ul>
 
@@ -123,13 +128,9 @@ class Term_1 extends Component {
                                 <p id="anum" ><span id="anum1" >About Andrew</span></p>
                                 {/* <p id="well" className="title">Scripting using Python</p> */}
                                 <div id="test">
-                                <p id="desc"  className="title">The course introduced the fundamental concepts of programming for IT professionals,
-                                with a focus on scripting languages that are commonly found in the workplace.
-                                Projects, assignments, and activities are representative of tasks that
-                                IT professionals are likely to encounter in the workplace. We had to design,
-                                implement, test, and debug programs that incorporated: variables, expressions,
-                                assignments, I/O, conditional and iterative control constructs, functions,
-                                and parameter passing. This was all done using The PYTHON Scripting Language
+                                <p id="desc"  className="title">Hey everyone I am Andrew!. To those that don't know me,
+                                I am Karla's husband to be! Since i haven't had the opportunity to meet any of you in person, I thought 
+                                i would introduce myself.
  </p>
 
                             </div>
