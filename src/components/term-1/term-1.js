@@ -4,6 +4,18 @@ import * as ReactBootStrap from "react-bootstrap";
 import ScrollAnimation from 'react-animate-on-scroll';
 import "./term-1.css"
 import us from './../../assets/us.jpg'; // Tell webpack this JS file uses this image
+import us2 from './../../assets/us2.jpg'; // Tell webpack this JS file uses this image
+import us3 from './../../assets/us3.jpg'; 
+import us4 from './../../assets/us4.jpg'; 
+import us5 from './../../assets/us5.jpg'; 
+import us6 from './../../assets/us6.jpg'; 
+import us7 from './../../assets/us7.jpg'; 
+import us8 from './../../assets/us8.jpg'; 
+import us9 from './../../assets/us9.jpg'; 
+import us10 from './../../assets/us10.jpg'; 
+import us11 from './../../assets/us11.jpg'; 
+import us12 from './../../assets/us12.jpg'; 
+
 import wink from './../../assets/wink.png'; // Tell webpack this JS file uses this image
 
 class Term_1 extends Component {
@@ -166,10 +178,123 @@ class Term_1 extends Component {
                         <p id="anum" ><span id="anum1" >About Us</span></p>
                                 {/* <p id="well" className="title">Technical Mathematics for IT</p> */}
                                 <div id="test">
-                                    
+                                <div className="ourcenter">
+
                         <ScrollAnimation animateIn='fadeIn'
-                        animateOut='fadeOut' duration="4" delay={2000} offset={50}> <div className="ourcenter">
-                        <img src={us} alt="us" className="ourpic"/></div></ScrollAnimation>
+                        animateOut='fadeOut' duration="4" delay={1000} offset={50}> 
+                        {/* <div className="ourcenter">
+                        <img src={us} alt="us" className="ourpic"/></div> */}
+                        <ReactBootStrap.Carousel style={{margin:"auto"}} className="ourpic" >
+                            <ReactBootStrap.Carousel.Item interval={3000}>
+                                <div>
+                                    <img
+                                        className="carouselImage d-block w-100"
+                                        src={us}
+                                        alt="First slide"
+                                    />
+                                </div>
+                            </ReactBootStrap.Carousel.Item>
+                            <ReactBootStrap.Carousel.Item interval={3000}>
+                                <div>
+                                    <img
+                                        className="carouselImage d-block w-100"
+                                        src={us2}
+                                        alt="First slide"
+                                    />
+                                </div>
+                            </ReactBootStrap.Carousel.Item>
+                            <ReactBootStrap.Carousel.Item interval={3000}>
+                                <div >
+                                    <img
+                                        className="carouselImage d-block w-100"
+                                        src={us3}
+                                        alt="First slide"
+                                    />
+                                </div>
+                            </ReactBootStrap.Carousel.Item>
+                            <ReactBootStrap.Carousel.Item interval={3000}>
+                                <div >
+                                    <img
+                                        className="carouselImage d-block w-100"
+                                        src={us4}
+                                        alt="First slide"
+                                    />
+                                </div>
+                            </ReactBootStrap.Carousel.Item>
+                            <ReactBootStrap.Carousel.Item interval={3000}>
+                                <div >
+                                    <img
+                                        className="carouselImage d-block w-100"
+                                        src={us5}
+                                        alt="First slide"
+                                    />
+                                </div>
+                            </ReactBootStrap.Carousel.Item>
+                            <ReactBootStrap.Carousel.Item interval={3000}>
+                                <div >
+                                    <img
+                                        className="carouselImage d-block w-100"
+                                        src={us6}
+                                        alt="First slide"
+                                    />
+                                </div>
+                            </ReactBootStrap.Carousel.Item>
+                            <ReactBootStrap.Carousel.Item interval={3000}>
+                                <div >
+                                    <img
+                                        className="carouselImage d-block w-100"
+                                        src={us7}
+                                        alt="First slide"
+                                    />
+                                </div>
+                            </ReactBootStrap.Carousel.Item><ReactBootStrap.Carousel.Item interval={3000}>
+                                <div >
+                                    <img
+                                        className="carouselImage d-block w-100"
+                                        src={us11}
+                                        alt="First slide"
+                                    />
+                                </div>
+                            </ReactBootStrap.Carousel.Item><ReactBootStrap.Carousel.Item interval={3000}>
+                                <div >
+                                    <img
+                                        className="carouselImage d-block w-100"
+                                        src={us12}
+                                        alt="First slide"
+                                    />
+                                </div>
+                            </ReactBootStrap.Carousel.Item><ReactBootStrap.Carousel.Item interval={3000}>
+                                <div >
+                                    <img
+                                        className="carouselImage d-block w-100"
+                                        src={us10}
+                                        alt="First slide"
+                                    />
+                                </div>
+                            </ReactBootStrap.Carousel.Item><ReactBootStrap.Carousel.Item interval={3000}>
+                                <div >
+                                    <img
+                                        className="carouselImage d-block w-100"
+                                        src={us8}
+                                        alt="First slide"
+                                    />
+                                </div>
+                            </ReactBootStrap.Carousel.Item><ReactBootStrap.Carousel.Item interval={3000}>
+                                <div >
+                                    <img
+                                        className="carouselImage d-block w-100"
+                                        src={us9}
+                                        alt="First slide"
+                                    />
+                                </div>
+                            </ReactBootStrap.Carousel.Item>
+                            </ReactBootStrap.Carousel>
+
+                        
+                    
+                        
+                        </ScrollAnimation>                            </div>
+
                                    
                                 <p id="desc"  className="title">
                                 Our journey began on the 18th of May, 2020. It all started on Mutual(a dating app),
