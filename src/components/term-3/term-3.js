@@ -78,7 +78,7 @@ class Term_3 extends Component {
         animateOut='bounceOut' duration="4" offset={5}>  
     <div id="at32">
        
-            <p id="anum" ><a href="" id="anum1" >2. Bank Transfer</a></p>
+            <p id="anum" ><a href="" id="anum1" >2. Venmo</a></p>
             <p id="well" className="title">Here are the details</p>
             <div id="test">
             
@@ -136,8 +136,12 @@ animateOut='bounceOut' duration="2" offset={5}>
 <p id="well" className="title">Here are the details</p>
 <div id="test">
 <p id="desc" className="title">If the options above will not work for you, then snail main is the solution. You can Mail
-us a cheque or cash written out to 
+us a cheque or cash written out to :
 </p>
+<div style={{ textAlign: "center" }}><p id="desc" className="title"><span id="a2">3624 Brooke st</span></p></div>
+<div style={{ textAlign: "center" }}><p id="desc" className="title"><span id="a2">Forest Grove</span></p></div>
+<div style={{ textAlign: "center" }}><p id="desc" className="title"><span id="a2">97116</span></p></div>
+
 
 </div>
 </div>
