@@ -130,7 +130,8 @@ class Term_1 extends Component {
                                 <div id="test">
                                 <p id="desc"  className="title">Hey everyone I am Andrew!. To those that don't know me,
                                 I am Karla's husband to be! Since i haven't had the opportunity to meet any of you in person, I thought 
-                                i would introduce myself.
+                                I'd introduce myself. I was born in Sri Lanka which is a tiny island just off the tip of India (but im 
+                                not Indian)
  </p>
 
                             </div>
