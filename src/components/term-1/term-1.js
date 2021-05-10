@@ -159,8 +159,15 @@ class Term_1 extends Component {
                         <p id="anum" ><span id="anum1" >About Karla</span></p>
                                 {/* <p id="well" className="title">Business Communications 1</p> */}
                                 <div id="test">
-                                <p id="desc"  className="title">This course has taught me how to be a professional and
-                                efficient communicator at work. outcomes were how to communicate quickly, clearly, and effectively.
+                                <p id="desc"  className="title">
+                                I was born in Washington State in February 1999. I have two sisters (one is 4 years 
+                                older and the other is 17 months younger) and my two wonderful parents. I grew up in 
+                                Washington until I was about 14 years old and then we moved to Oregon. After I graduated high 
+                                school I left on a mission for my church to Colorado Springs. It was one of the most wonderful 
+                                experiences of my life. I got to meet amazing people and had amazing experiences. After getting
+                                 home I went to beauty school. It was so fun! I've always loved doing hair so being able to learn 
+                                 about it was so spectacular! And now after graduating and getting my license I'm so excited to get
+                                  paid to do something I love every single day! Meeting Andrew has changed my life. He is my best friend and I'm so excited to keep him with me, by my side for eternity.
  </p> 
 
                             </div>
@@ -297,20 +304,28 @@ class Term_1 extends Component {
 
                                    
                                 <p id="desc"  className="title">
-                                Our journey began on the 18th of May, 2020. It all started on Mutual(a dating app),
-                                 The borders were closed because of covid with very little exemptions so we kept talking online. I would drive 5 hours one way every weekend over the summer up to a 
-                                 park in Washington on the border of Canada to see him. We would spend all day laying and talking 
-                                 wishing and thinking of what life will be like once we could finally be together. Later as fall and 
-                                 winter came along, more restriction were added at the park and because he was not a citizen of canada,
-                                  he wasn't allowed to cross over into the park. This meant that we could only see each other across a 
-                                  ditch that separated the two countries, without being able to hug or kiss each other. Time passed and we 
-                                  hoped that the borders would open but the wait kept getting longer and longer. This was when we decided to 
-                                  see each other at the park once again so that we could at least see each other in person, even though it 
-                                  would be across a ditch. It was a snowy freezing valantine's day and we decided to meet early to avoid the 
-                                  crowds that would gather. I drove up very slowly because of the snow and ice on the roads turning a normal
-                                   5 hour drive into an 8 hour drive. My finance took a bus and then had to walk 6 miles in the snow and cold 
-                                   to get to the park where we finally got to see each other. Flowers and the ring in hand he got down on one 
-                                   knee and proposed to me
+                                <ul style={{ textAlign: 'left', marginLeft: '-5px', marginTop: '10px' }} >
+
+<ScrollAnimation animateIn='zoomInDown'
+animateOut='flipOutX' duration="2"  offset={50}>
+<li id="item">Our journey began on the 18th of May, 2020. It all 
+                                started on Mutual (a dating app). We started by 
+                                texting and soon after we stared video chatting and we've
+                                 been video chatting everyday since. Since all we can do is watch shows and talk we know each other so well.
+                                  The borders are closed because of covid with very little exemptions, so we kept talking online. Karla would drive 
+                                  5 hours one way every weekend to a park in Washington on the border of Canada to see Andrew. We would spend all day 
+                                  laying and talking wishing and thinking of what life will be like once we could finally be together. Later as fall and 
+                                  winter came along more restrictions were added at the park and because Andrew is not a citizen of Canada, he wasn't allowed
+                                   to cross over into the park anymore. This meant that we could only see each other across a ditch that separated the two countries, without being able to hug or kiss each other. 
+ </li> </ScrollAnimation>
+<ScrollAnimation animateIn='zoomInDown'
+animateOut='flipOutX' duration="2" delay={1000}  offset={50}>
+<li  id="item">Time passed and we hoped that the borders would open 
+but the wait kept getting longer and longer. This was when we decided to see each other at the park once again so that we could at least see each other in person, even though it would be across a ditch. It was a snowy freezing valantine's day and we decided to meet early to avoid the crowds that would gather. Karla drove up very slowly because of the snow and ice on the roads turning a normal 5 hour drive into an 8 hour drive. Andrew took a bus and then had to walk 6 miles in the snow and cold to get to the park where we finally got to see each other. Flowers and the ring in hand he got down on one knee and proposed. We are
+ so excited to finally start our lives together in Canada and be able to 
+ spend more than just a few hours together at a time. </li></ScrollAnimation>
+                                
+ </ul>
  </p>
 
                             </div>  </div>
