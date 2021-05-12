@@ -81,7 +81,7 @@
 }
 
 #at31 {
-    background: linear-gradient(-65deg, #ff1de1, #acb80e, #375fe4, #fa8a21);
+    background: linear-gradient(-65deg, #ff1de1, #b80e0e, #375fe4, #fa8a21);
     background-size: 1000% 400%;
     /* margin-right:auto; */
     margin:auto;
@@ -106,7 +106,7 @@
 }
 
 #at32 {
-    background: linear-gradient(-65deg,  #ff1d1d, #c0c23b, #e7961c, #3742e4 );
+    background: linear-gradient(-65deg,  #ff1d1d, #7e3809, #6a1ce7, #3742e4 );
     background-size: 1000% 400%;
     margin: auto;
     width:70%;
@@ -307,7 +307,7 @@
 
 
 #at31 {
-    background: linear-gradient(-65deg, #ff1de1, #acb80e, #375fe4, #fa8a21);
+    background: linear-gradient(-65deg, #ff1de1, #b80e1c, #375fe4, #fa8a21);
     background-size: 1000% 400%;
     margin: auto;
     width:98%;
@@ -322,7 +322,7 @@
 }
 
 #at32 {
-    background: linear-gradient(-65deg,  #ff1d1d, #c0c23b, #e7961c, #3742e4 );
+    background: linear-gradient(-65deg,  #ff1d1d, #1a8f34, #851594, #3742e4 );
     background-size: 1000% 400%;
     margin: auto;
     width:98%;

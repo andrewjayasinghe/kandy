@@ -55,7 +55,7 @@ class Term_1 extends Component {
                                 <ReactBootStrap.Spinner animation="grow" variant="warning" style={{ width: "30px", height:"35px" }}/></div>
 
                                 <p id="desc">Welcome to our website! We made this as a one stop shop for all things about 
-                                us and our wedding. Due to the pandemic and related travel restrictions, We are having our wedding online
+                                us and our wedding. Due to the pandemic and related travel restrictions, we are having our wedding online
                                 so we decided to make things a little fun by creating this website.
                     
                         </p>
@@ -143,7 +143,8 @@ class Term_1 extends Component {
                                 <p id="desc"  className="title">Hey everyone I am Andrew! To those that don't know me,
                                 I am Karla's husband to be! Since i haven't had the opportunity to meet any of you in person, I thought 
                                 I'd introduce myself. I was born in Sri Lanka which is a tiny island just off the tip of India (but im 
-                                not Indian)
+                                not Indian) <img src={wink} alt="us" className="wink"/><br></br>
+                                Theres 4 of us in my family which includes my younger brother.  
  </p>
 
                             </div>
