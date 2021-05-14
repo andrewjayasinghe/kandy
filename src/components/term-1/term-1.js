@@ -100,7 +100,7 @@ class Term_1 extends Component {
                         <li  id="item"> If you decide to go for a donation instead and are from the US, we have 3 options to choose from.
                         Click on the 
                         {this.renderRedirect()}
-                        <button class="button" onClick={this.setRedirect}>Jar</button> Button to view these options. </li></ScrollAnimation>
+                         <button class="button" onClick={this.setRedirect}>Jar</button> Button to view these options. </li></ScrollAnimation>
 
                         <ScrollAnimation animateIn='zoomInDown'
                         animateOut='flipOutX' duration="3" delay={1000}  offset={50}>
@@ -141,10 +141,17 @@ class Term_1 extends Component {
                                 {/* <p id="well" className="title">Scripting using Python</p> */}
                                 <div id="test">
                                 <p id="desc"  className="title">Hey everyone I am Andrew! To those that don't know me,
-                                I am Karla's husband to be! Since i haven't had the opportunity to meet any of you in person, I thought 
-                                I'd introduce myself. I was born in Sri Lanka which is a tiny island just off the tip of India (but im 
+                                I am Karla's husband to be! Since I haven't had the opportunity to meet any of you in person, I thought 
+                                I'd introduce myself. I was born in Sri Lanka which is a tiny island just off the tip of India (but I'm 
                                 not Indian) <img src={wink} alt="us" className="wink"/><br></br>
-                                Theres 4 of us in my family which includes my younger brother.  
+                                Theres 4 of us in my family which includes my younger brother and both my parents. We are all members
+                                 of the church, although my parents were converted before I was born. After finishing high school,
+                                 I was called to serve in the Philippines Quezon City North Mission. After serving there for 1 year, I
+                                 was reassigned to serve in my home country. This was because there were no foreign missionaries 
+                                 allowed into Sri Lanka due to political circumstances.<br></br>
+                                 After completing my mission in 2019, I was looking to study outside of my home country and 
+                                 Canada was kind enough to offer me the opportunity to continue my education. Since then I have been in canada 
+                                 pursuing a program in IT. 
  </p>
 
                             </div>
