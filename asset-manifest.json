@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kandy/static/css/main.6d010f67.chunk.css",
-    "main.js": "/kandy/static/js/main.b183ce8f.chunk.js",
-    "main.js.map": "/kandy/static/js/main.b183ce8f.chunk.js.map",
+    "main.js": "/kandy/static/js/main.73613e26.chunk.js",
+    "main.js.map": "/kandy/static/js/main.73613e26.chunk.js.map",
     "runtime-main.js": "/kandy/static/js/runtime-main.96e75870.js",
     "runtime-main.js.map": "/kandy/static/js/runtime-main.96e75870.js.map",
     "static/css/2.87575806.chunk.css": "/kandy/static/css/2.87575806.chunk.css",
@@ -37,6 +37,6 @@
     "static/css/2.87575806.chunk.css",
     "static/js/2.81196ae2.chunk.js",
     "static/css/main.6d010f67.chunk.css",
-    "static/js/main.b183ce8f.chunk.js"
+    "static/js/main.73613e26.chunk.js"
   ]
 }
