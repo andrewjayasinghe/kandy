@@ -94,7 +94,7 @@ class Term_1 extends Component {
 
                         <ScrollAnimation animateIn='zoomInDown'
                         animateOut='flipOutX' duration="2"  offset={50}>
-                        <li id="item">We are using Amazon Canada to set up our wedding registry.</li> </ScrollAnimation>
+                        <li id="item">We are using Amazon to set up our wedding registry.</li> </ScrollAnimation>
                         <ScrollAnimation animateIn='zoomInDown'
                         animateOut='flipOutX' duration="2" delay={1000}  offset={50}>
                         <li  id="item"> If you decide to go for a donation instead and are from the US, we have 3 options to choose from.
