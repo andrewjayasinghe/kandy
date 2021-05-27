@@ -51,7 +51,7 @@ class Navbar extends Component {
 
         <ReactBootStrap.Nav.Link  href={process.env.PUBLIC_URL + '/#/'} className="nav-font" id="info">Welcome</ReactBootStrap.Nav.Link >
         <ReactBootStrap.Nav.Link href={process.env.PUBLIC_URL + '/#/Term3'} className="nav-font" id="home">Jar</ReactBootStrap.Nav.Link >
-        <ReactBootStrap.Nav.Link  href={'https://www.amazon.ca/wedding/karla-nelson-andrew-jayasinghe-burnaby-august-2021/registry/10Q84LN9EOJN6'} target="_blank" className="nav-font" id="faq">Registry</ReactBootStrap.Nav.Link >
+        <ReactBootStrap.Nav.Link  href={'https://www.amazon.com/wedding/karla-nelson-andrew-jayasinghe-vancouver-june-2021/registry/27SSY5OUVFTVH'} target="_blank" className="nav-font" id="faq">Registry</ReactBootStrap.Nav.Link >
         {/* <ReactBootStrap.Nav.Link  href={process.env.PUBLIC_URL + '/#/Term3'} className="nav-font" id="info">Term-3</ReactBootStrap.Nav.Link > */}
         <ReactBootStrap.Nav.Link  href={process.env.PUBLIC_URL + '/#/Term4'} className="nav-font" id="about">Well Wishes</ReactBootStrap.Nav.Link >
         {/* <ReactBootStrap.Nav.Link  href={file1} className="nav-font" id="resume" target="_blank">Transcript</ReactBootStrap.Nav.Link > */}
